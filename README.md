@@ -5,5 +5,5 @@ GUS not only cycle between games in your list at the press of a key (or joystick
 
 Supported emulators: MAME.
 
-I wrote this simple script for a friend's genuine Buggy Boy cabinet I converted. Take a look at the following link if you are interested ;)
+I wrote this simple autoit script for a friend's genuine Buggy Boy cabinet I converted. Take a look at the following link if you are interested ;)
 https://coinoparena.forumfree.it/?t=78515848
