@@ -11,7 +11,7 @@ _Singleton("ES_GUS", 0) ;allows only one instance of the program
 Local $hDLL = DllOpen("user32.dll")
 Local $iPID
 Local $gameRom = "buggyboyjr" 		;<-- DEFINE YOUR STARTING GAME ROM HERE
-Local $maxRoms = 10;
+Local $maxRoms = 11;
 Local $a = 1
 
 Local $prevCoor
@@ -81,7 +81,7 @@ ElseIf $a == 8 Then
 	$gameRom = "sci"
 ElseIf $a == 9 Then
 	$gameRom = "wrally"
-ElseIf $a == 9 Then
+ElseIf $a == 10 Then
 	$gameRom = "chasehq"
 Else;If $a == 5 Then
 	$gameRom = "csprint"
